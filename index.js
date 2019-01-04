@@ -1,2 +1,1 @@
 alert('yata');
-alert('nada');
